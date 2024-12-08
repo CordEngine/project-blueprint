@@ -26,9 +26,9 @@
 		"@biomejs/biome": "1.9.4",
 		"@commitlint/cli": "19.6.0",
 		"@cordengine/engineering-standards": "git@github.com:CordEngine/engineering-standards.git",
-		"@types/bun": "^1.1.13",
+		"@types/bun": "1.1.14",
 		"markdownlint-cli2": "0.15.0",
-		"typescript": "^5.6.3",
+		"typescript": "5.7.2",
 		"type-coverage": "2.29.7"
 	},
 	"trustedDependencies": ["@biomejs/biome"]

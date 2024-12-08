@@ -1,0 +1,25 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "bun",
+			"internalConsoleOptions": "openOnSessionStart",
+			"request": "launch",
+			"name": "Debug Program",
+			"program": "${workspaceFolder}/index.ts",
+			"cwd": "${workspaceFolder}",
+			"stopOnEntry": false,
+			"watchMode": true
+		},
+		{
+			"type": "bun",
+			"internalConsoleOptions": "openOnSessionStart",
+			"request": "launch",
+			"name": "Run Program",
+			"program": "${workspaceFolder}/index.ts",
+			"cwd": "${workspaceFolder}",
+			"noDebug": true,
+			"watchMode": true
+		}
+	]
+}

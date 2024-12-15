@@ -24,7 +24,7 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
-		"@commitlint/cli": "19.6.0",
+		"@commitlint/cli": "19.6.1",
 		"@cordengine/engineering-standards": "git@github.com:CordEngine/engineering-standards.git",
 		"@types/bun": "1.1.14",
 		"markdownlint-cli2": "0.15.0",

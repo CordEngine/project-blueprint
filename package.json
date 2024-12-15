@@ -27,7 +27,7 @@
 		"@commitlint/cli": "19.6.1",
 		"@cordengine/engineering-standards": "git@github.com:CordEngine/engineering-standards.git",
 		"@types/bun": "1.1.14",
-		"markdownlint-cli2": "0.15.0",
+		"markdownlint-cli2": "0.16.0",
 		"typescript": "5.7.2",
 		"type-coverage": "2.29.7"
 	},

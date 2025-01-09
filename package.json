@@ -28,7 +28,7 @@
 		"@cordengine/engineering-standards": "0.0.2",
 		"@types/bun": "1.1.15",
 		"markdownlint-cli2": "0.16.0",
-		"typescript": "5.7.2",
+		"typescript": "5.7.3",
 		"type-coverage": "2.29.7"
 	},
 	"trustedDependencies": ["@biomejs/biome"]
